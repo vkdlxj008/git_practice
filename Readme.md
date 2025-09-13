@@ -1,3 +1,3 @@
 # Git Practice
-This repository is for practicing Git commands.
+This repository is for practicing Git commands. 
 **Updated**
